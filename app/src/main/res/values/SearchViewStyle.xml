@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SearchViewStyle" parent="Widget.AppCompat.SearchView">
+        <item name="searchIcon"></item>
+        <item name="voiceIcon"></item>
+        <item name="closeIcon"></item>
+        <item name="searchHintIcon"></item>
+    </style>
+</resources>
